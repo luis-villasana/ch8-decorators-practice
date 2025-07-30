@@ -9,7 +9,11 @@ def self_math(func):
 
 square = self_math(multiply)
 
-print(multiply(5,5))
-print(square(5))
-print(square(8))
-print(square(9))
+print(multiply(5, 5)) # 25
+print(square(5)) # 25
+
+print(multiply(6, 6)) # 36
+print(square(6)) # 36
+
+print(multiply(10, 10)) # 100
+print(square(10)) # 100
