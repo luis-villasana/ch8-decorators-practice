@@ -1,2 +1,2 @@
 # ch8-decorators-practice
-Repo to practice python decorators!
+Practicing Python decorators and function transformations using simple examples.

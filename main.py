@@ -27,6 +27,6 @@ print(square(10)) # 100
 def multiply_fn(x, y):
     return x * y
 
-print(multiply_fn(2)) # 2
+print(multiply_fn(2)) # 4
 print(multiply_fn(7)) # 49
 print(multiply_fn(12)) # 144
